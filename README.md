@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @BernardoC130
-- 👀 I’m interested in FiveM Development
-- 🌱 I’m currently learning LUA, PY, JS, JSON, REACT, C, C#
-- 💞️ I’m looking to collaborate on FiveM Projects
-- 📫 How to reach me, go to discord and add me BadKarma#0010
+- 👋 Hi
+
 
 <!---
 BernardoC130/BernardoC130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
